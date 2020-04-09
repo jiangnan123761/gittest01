@@ -6,6 +6,8 @@ public class Dao {
 		System.out.println("hello world");
 		//这个是本地注释
 		//这个是本地注释
+		//这是一个注释
+
 	}
 
 }
